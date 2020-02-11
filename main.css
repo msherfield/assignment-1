@@ -1,0 +1,37 @@
+.Primary
+{color: blue;
+}
+h2 {background-color: pink;}
+body {background-color: yellow;}
+span {background-color: #93e9ff;}
+body {font-family: "Comic Sans MS", cursive, sans-serif;}
+ {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+  {text-align: center;}
+p {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 100px;
+  margin-left: 80px;
+}
+ ol {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 100px;
+  margin-left: 80px;
+}
+body {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 100px;
+  margin-left: 80px;
+}
+H1 {border-style: dotted;}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
